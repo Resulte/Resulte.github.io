@@ -1,7 +1,7 @@
 # Site settings
 title: Resulte's Blog
 SEOTitle: Resulte的博客 | Resulte's Blog
-header-img: img/bluSky2.png
+header-img: img/blueSky3.jpeg
 email: ResulteLee@outlook.com
 description: "Every failure is leading towards success."
 keyword: "Resulte, Resulte's Blog, Resulte的博客, Java"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Resulte/Resulte.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/touxiang.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/touxiang2.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
